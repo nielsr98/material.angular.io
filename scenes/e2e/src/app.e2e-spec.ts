@@ -25,6 +25,7 @@ describe('screenshot scenes for each component', () => {
       'slide-toggle',
       'slider',
       'stepper',
+      'list',
   ];
 
   beforeEach(() => {
